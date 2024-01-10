@@ -1,0 +1,3 @@
+- PDA: A handheld support device.
+- Pocket PC: A device that supports software installation.
+- Set-top box: Embed software into this device.
