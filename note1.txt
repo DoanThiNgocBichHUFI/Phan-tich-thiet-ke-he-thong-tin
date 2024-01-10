@@ -20,3 +20,10 @@ Quy trình phần mềm:
 - các giai đoạn mà quá trình phát triển phần mềm phải trải qua.
 - với mỗi giai đoạn cần xác định rõ: Mục tiêu, kết quả nhận từ giai đoạn trước đó và kết quả chuyển giao cho giai đoạn kế tiếp.
 }
+
+** Software development method:
+Guidelines that allow step-by-step implementation of a certain stage in the software process.
+
+**Software development tools and environment:
+Supportive software and environments in each stage.
+
