@@ -27,3 +27,15 @@ Guidelines that allow step-by-step implementation of a certain stage in the soft
 **Software development tools and environment:
 Supportive software and environments in each stage.
 
+______________________
+
+** Waterfall process:
++ Requirement specification (get feedback from customers).
++ Software analysis and design (translate to technical language).
++ Implementation and testing.
++ System integration and testing (external connection).
++ System execution and upgrade. 
+
+!!! The final stage can return to any stage for checking.
+
+
