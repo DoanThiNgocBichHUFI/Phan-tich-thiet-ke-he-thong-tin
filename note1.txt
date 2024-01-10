@@ -1,25 +1,12 @@
 - PDA: A handheld support device.
 - Pocket PC: A device that supports software installation.
 - Set-top box: Embed software into this device.
-{
-  PDA : thiết bị cầm tay hỗ trợ.
-Pocket PC: thiết bị hỗ trợ cài đặt phần mềm.
-set-top box: nhúng PM vào thiết bị này .
-}
 
 ** Software class: Software that has similar structure and functions.
-{
-Lớp phần mềm: các phần mềm có cấu trúc và chức năng tương tự nhau.
-}
 
 ** Software process:
 + The stages that the software development process must go through.
 + For each stage, it is necessary to clearly define: Objectives, results received from the previous stage, and results transferred to the next stage.
-{
-Quy trình phần mềm:
-- các giai đoạn mà quá trình phát triển phần mềm phải trải qua.
-- với mỗi giai đoạn cần xác định rõ: Mục tiêu, kết quả nhận từ giai đoạn trước đó và kết quả chuyển giao cho giai đoạn kế tiếp.
-}
 
 ** Software development method:
 Guidelines that allow step-by-step implementation of a certain stage in the software process.
@@ -37,5 +24,15 @@ ______________________
 + System execution and upgrade. 
 
 !!! The final stage can return to any stage for checking.
+______________________
 
+**Stages of the system development cycle:
+
+- Identify problems, opportunities, and objectives.
+- Determine human information requirements.
+- Analyze system needs.
+- Design the proposed system.
+- Develop and document software.
+- Test and maintain the system.
+- Implement and evaluate the system.
 
